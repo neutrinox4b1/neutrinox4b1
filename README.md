@@ -36,17 +36,18 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 * 네트워크 관리사 2급(2022.04.12)
 
 
+<br>
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=63um3um)](https://github.com/63um3um/github-readme-stats)
 
 
+
+<br>
 <div align=center>
 
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://thfist-1071.tistory.com/)](https://thfist-1071.tistory.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lee_min121/?hl=ko)](https://www.instagram.com/lee_min121/?hl=ko) 
   
 </div>
-
-<br>
-<br>
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=63um3um)](https://github.com/63um3um/github-readme-stats)
