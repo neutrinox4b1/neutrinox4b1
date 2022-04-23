@@ -4,12 +4,15 @@ Who am I? 🤔
 =================
 I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
+<br>
+
 📚Technology Stack📚
 ====================
+<p>
 <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
 <img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=for-the-badge&logo=asm-hex&logoColor=white">
-
+</p>
 
 How to contact me?
 =================
