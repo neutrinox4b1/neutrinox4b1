@@ -2,8 +2,10 @@
 
 Who am I? 🤔
 =================
-***
 I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
+
+How to contact me?
+=================
 
 > # this is h1
 > This is a first blockqute.
