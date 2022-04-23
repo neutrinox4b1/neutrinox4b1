@@ -17,8 +17,8 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
 💻 Research Interests
 ======================
-System hacking
-<p fontsize = 10>System hacking</p>
+*System hacking
+
 ## Crytography
 ## Digital Forensics
 ## development(Security product)
