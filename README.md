@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=63um3um%20neutrinox4b1&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=autoheight=300&section=header&text=Jeongmin%20LEE&fontSize=90)
 
 
 > # this is h1
