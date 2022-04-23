@@ -24,14 +24,25 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 * development(Security product)
 
 
+🌘 My history
+=============== 
+* Sejong University(2022.03 ~ )
+  - Security Factorial(2022.03 ~ )
+
+
+
+📈Certificate
+===============
+*네트워크 관리사 2급(2022.04.12)
+
+
+
 
 How to contact me?
 =================
+<img alt="tistory" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white">
+<img alt="tistroy" src="https://img.shields.io/badge/#FFFFFF?style=flat-square&logo=tistory&logoColor=white">
 
-> # this is h1
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
 
 <br>
 <br>
