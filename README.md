@@ -24,8 +24,6 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 * development(Security product)
 
 
-❤️@WooyoungSon❤️
-
 
 How to contact me?
 =================
