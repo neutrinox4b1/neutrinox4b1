@@ -14,6 +14,16 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 <img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=for-the-badge&logo=asm-hex&logoColor=white">
 </p>
 
+
+💻 Research Interests
+======================
+> ## System hacking
+> ## Crytography
+> ## Digital Forensics
+> ## 
+
+
+
 How to contact me?
 =================
 
@@ -21,3 +31,6 @@ How to contact me?
 > This is a first blockqute.
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=63um3um)](https://github.com/63um3um/github-readme-stats)
