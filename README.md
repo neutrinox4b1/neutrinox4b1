@@ -17,12 +17,14 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
 💻 Research Interests
 ======================
-*System hacking
+* System hacking
+* Reversing
+* Digital Forensics
+* Cryptography
+* development(Security product)
 
-## Crytography
-## Digital Forensics
-## development(Security product)
 
+❤️@WooyoungSon❤️
 
 
 How to contact me?
