@@ -5,6 +5,7 @@ Who am I? 🤔
 I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
 <br>
+<br>
 
 📚Technology Stack📚
 ====================
@@ -13,7 +14,8 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
 <img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=for-the-badge&logo=asm-hex&logoColor=white">
 </p>
-
+<br>
+<br>
 
 💻 Research Interests
 ======================
@@ -22,19 +24,20 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 * Digital Forensics
 * Cryptography
 * development(Security product)
-
+<br>
+<br>
 
 🌘 My history
 =============== 
 * Sejong University(2022.03 ~ )
   - Security Factorial(2022.03 ~ )
-
-
+<br>
+<br>
 
 📈Certificate
 ===============
 * 네트워크 관리사 2급(2022.04.12)
-
+<br>
 
 <br>
 <br>
@@ -42,8 +45,8 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=63um3um)](https://github.com/63um3um/github-readme-stats)
 
-
-
+<br>
+<br>
 <br>
 <div align=center>
 
