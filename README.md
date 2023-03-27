@@ -13,6 +13,10 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
 <img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=for-the-badge&logo=asm-hex&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <br>
 <br>
