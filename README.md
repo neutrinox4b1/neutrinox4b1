@@ -43,7 +43,7 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 ===============
 * 네트워크 관리사 2급(2022.04.12)
 * 42Seoul Cadet(2023.03.13 ~ 2023.06.)
-* BoB 12 Vulnerability Analysis
+* KITRI Best of The Best(BoB) 12 Vulnerability Analysis
 <br>
 <br>
 <br>
