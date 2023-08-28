@@ -27,10 +27,8 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 💻 Research Interests
 ======================
 * System hacking
-* Reversing
-* Digital Forensics
 * Cryptography
-* development(Security product)
+* Reversing
 <br>
 <br>
 
@@ -44,7 +42,7 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 📈Certificate
 ===============
 * 네트워크 관리사 2급(2022.04.12)
-* 42Seoul Cadet(2023.03.13 ~ )
+* 42Seoul Cadet(2023.03.13 ~ 2023.06.)
 <br>
 <br>
 <br>
