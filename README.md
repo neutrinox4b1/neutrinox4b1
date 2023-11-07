@@ -29,6 +29,7 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 * System hacking
 * Cryptography
 * Reversing
+* Embedded Hacking
 <br>
 <br>
 
@@ -36,14 +37,14 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 =============== 
 * Sejong University(2022.03 ~ )
   - Security Factorial(2022.03 ~ )
+* 42Seoul Cadet(2023.03.13 ~ 2023.06.)
+* KITRI Best of The Best(BoB) 12 Vulnerability Analysis (2023.07 ~ )
 <br>
 <br>
 
 📈Certificate
 ===============
 * 네트워크 관리사 2급(2022.04.12)
-* 42Seoul Cadet(2023.03.13 ~ 2023.06.)
-* KITRI Best of The Best(BoB) 12 Vulnerability Analysis
 <br>
 <br>
 <br>
