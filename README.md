@@ -35,10 +35,11 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
 🌘 My history
 =============== 
-* Sejong University(2022.03. ~ )
-  - Security Factorial(2022.03. ~ 2024.04.)
-* 42Seoul Cadet(2023.03.13. ~ 2023.06.)
-* KITRI Best of The Best(BoB) 12 Vulnerability Analysis (2023.07. ~  2024.02.)
+* Sejong University(2022. 03. ~ )
+  - Security Factorial(2022.03. ~ 2024. 04.)
+* 42Seoul Cadet(2023. 03. 13. ~ 2023. 06.)
+* KITRI Best of The Best(BoB) 12 Vulnerability Analysis (2023. 07. ~  2024. 02.)
+* Protocol Engineering Lab. (2024. 07. ~ )
 <br>
 <br>
 
