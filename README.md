@@ -58,6 +58,5 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 
 <div align=center>
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://neutrinox4b1.github.io/)](https://neutrinox4b1.tistory.com/) 
-  
+![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://neutrinox4b1.github.io/)](https://neutrinox4b1.tistory.com/)
 </div>
