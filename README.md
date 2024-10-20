@@ -48,17 +48,13 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 * 네트워크 관리사 2급(2022.04.12)
 <br>
 <br>
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=neutrinox4b1)](https://solved.ac/neutrinox4b1/)
-
-<br>
-<br>
 <br>
 <br>
 <br>
 <br>
 
 <div align=center>
-
-![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://neutrinox4b1.github.io/)](https://neutrinox4b1.tistory.com/)
+  
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=neutrinox4b1)](https://solved.ac/neutrinox4b1/)
+  
 </div>
