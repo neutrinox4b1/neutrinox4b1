@@ -54,7 +54,4 @@ I'm Jeongmin Lee, a growing hacker in Sejong univ. Infosec🔒
 <br>
 
 <div align=center>
-  
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=neutrinox4b1)](https://solved.ac/neutrinox4b1/)
-  
 </div>
